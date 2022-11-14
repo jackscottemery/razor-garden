@@ -17,12 +17,11 @@
 	- #### Chapter 2.6
 ### CHAPTER 3
 
-#### Chapter 2.1
-	- #### Chapter 3.1
-	- #### Chapter 3.2
-	- #### Chapter 3.3
-	- #### Chapter 3.4
-	- #### Chapter 3.5
+- #### Chapter 3.1
+- #### Chapter 3.2
+- #### Chapter 3.3
+- #### Chapter 3.4
+- #### Chapter 3.5
 ### CHAPTER 4
 ### CHAPTER 5
 
