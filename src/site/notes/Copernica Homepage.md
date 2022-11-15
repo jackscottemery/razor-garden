@@ -11,7 +11,7 @@
 ---
 
 ### **LATEST UPDATE:**
-- [[- PROJECT RAZORS/ACT 1/Chapter 1\|Chapter 1]]: November 14, 2022
+- [[- PROJECT RAZORS/ACT 1/RAZORS - ACT ONE\|RAZORS - ACT ONE]]: November 14, 2022
 
 
 ---
@@ -19,6 +19,6 @@
 
 | File                                                         | Last modified         |
 | ------------------------------------------------------------ | --------------------- |
-| [[ENCYCLOPEDIA COPERNICA/Serafin Family\|Serafin Family]] | 14.11.2022 - 10:52 PM |
+| [[ENCYCLOPEDIA COPERNICA/Serafin Family\|Serafin Family]] | 14.11.2022 - 11:01 PM |
 
 
