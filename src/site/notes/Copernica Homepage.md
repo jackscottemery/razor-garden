@@ -5,7 +5,7 @@
 
 
 # [[- PROJECT RAZORS/PROJECT RAZORS\|PROJECT RAZORS]]
-* ## [[- PROJECT RAZORS/ACT 1/RAZORS - ACT ONE\|ACT 1]]
+* ## [[- PROJECT RAZORS/RAZORS - ACT ONE\|ACT 1]]
 * ## ACT 2
 * ## ACT 3
 ---
@@ -17,8 +17,8 @@
 ---
 # [[ENCYCLOPEDIA COPERNICA/Encyclopedia Copernica\|Encyclopedia Copernica]]
 
-| File                                                            | Last modified         |
-| --------------------------------------------------------------- | --------------------- |
-| [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]] | 14.11.2022 - 11:45 PM |
+| File                                                                         | Last modified         |
+| ---------------------------------------------------------------------------- | --------------------- |
+| [[ENCYCLOPEDIA COPERNICA/Encyclopedia Copernica\|Encyclopedia Copernica]] | 15.11.2022 - 12:35 AM |
 
 
