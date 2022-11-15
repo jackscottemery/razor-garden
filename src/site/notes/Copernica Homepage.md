@@ -11,14 +11,14 @@
 ---
 
 ### **LATEST UPDATE:**
-- [[- PROJECT RAZORS/ACT 1/RAZORS - ACT ONE\|RAZORS - ACT ONE]]: November 14, 2022
+- [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|RAZORS - Chapter 1]]: November 14, 2022
 
 
 ---
 # [[ENCYCLOPEDIA COPERNICA/Encyclopedia Copernica\|Encyclopedia Copernica]]
 
-| File                                                         | Last modified         |
-| ------------------------------------------------------------ | --------------------- |
-| [[ENCYCLOPEDIA COPERNICA/Serafin Family\|Serafin Family]] | 14.11.2022 - 11:01 PM |
+| File                                                            | Last modified         |
+| --------------------------------------------------------------- | --------------------- |
+| [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]] | 14.11.2022 - 11:14 PM |
 
 
