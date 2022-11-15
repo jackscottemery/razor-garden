@@ -19,6 +19,6 @@
 
 | File                                                            | Last modified         |
 | --------------------------------------------------------------- | --------------------- |
-| [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]] | 14.11.2022 - 11:14 PM |
+| [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]] | 14.11.2022 - 11:45 PM |
 
 
