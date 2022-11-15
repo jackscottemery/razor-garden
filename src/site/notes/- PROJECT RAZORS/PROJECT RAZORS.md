@@ -5,6 +5,6 @@
 
 ### ACT ONE
 
-- [[- PROJECT RAZORS/ACT 1/Chapter 1\|Chapter 1]]
+- [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|RAZORS - Chapter 1]]
 
 
