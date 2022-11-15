@@ -9,5 +9,4 @@
 ---
 SEE ALSO:
 
-- [[ENCYCLOPEDIA COPERNICA/- People/Olivia Serafin\|Olivia Serafin]]
 
