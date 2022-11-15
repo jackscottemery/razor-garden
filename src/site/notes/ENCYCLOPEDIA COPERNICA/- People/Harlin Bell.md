@@ -587,7 +587,7 @@ _Procurement specialist_, he reminds himself.
 
 “Best kind of ride.”
 
-Serafin can’t help but smile. “Okay, then, Miss Quintana. What am I half-wrong about?”
+Serafin can’t help but smile. “Alright, then, Miss Quintana. What am I half-wrong about?”
 
 She raises a finger — hold, please — closes one of her displays, directs some Asimovs to the calculators out on the observation deck. She clearly enjoys making him wait.
 
