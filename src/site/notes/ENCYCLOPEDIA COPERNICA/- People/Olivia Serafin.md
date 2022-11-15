@@ -10,4 +10,3 @@
 
 SEE ALSO:
 
-- [[ENCYCLOPEDIA COPERNICA/- People/Jim Serafin\|Jim Serafin]]
