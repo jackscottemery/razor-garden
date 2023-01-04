@@ -6,7 +6,7 @@
 ### CHARACTERS
 
 * [[ENCYCLOPEDIA COPERNICA/Serafin Family\|Serafin Family]]
-* [[Razors - Cast of Characters\|Razors - Cast of Characters]]
+* [[ENCYCLOPEDIA COPERNICA/Razors - Cast of Characters\|Razors - Cast of Characters]]
 
 
 
