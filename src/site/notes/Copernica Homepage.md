@@ -9,7 +9,7 @@
 * Start [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|here]].
 
 ### **LATEST UPDATE:**
-- [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|RAZORS - Chapter 1]]: November 14, 2022
+- [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|RAZORS - Chapter 1]]: December 3, 2022
 
 
 ---
