@@ -14,11 +14,13 @@ They say Admiral Harlin Bell is one of the greatest military minds of the centur
 </div></div>
 
 
+
+
 ---
 
 - appears in:
 	- [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|RAZORS - Chapter 1]]
-- Married to [[Winsley Bell]
+- Married to [[Winsley Bell\|Winsley Bell]]
 
 
 
