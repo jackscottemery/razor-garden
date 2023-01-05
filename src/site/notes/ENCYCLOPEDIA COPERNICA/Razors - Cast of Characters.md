@@ -5,7 +5,7 @@
 
 
 - [[ENCYCLOPEDIA COPERNICA/- People/Jim Serafin\|Jim Serafin]]
-- [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]]
 - [[ENCYCLOPEDIA COPERNICA/- People/Olivia Serafin\|Olivia Serafin]]
+- [[ENCYCLOPEDIA COPERNICA/- People/Harlin Bell\|Harlin Bell]]
 
 
