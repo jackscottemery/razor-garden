@@ -5,7 +5,7 @@
 
 - ### [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 1\|Chapter 1]]
 - ### Chapter 2
-	- #### [[RAZORS - Chapter 2.1\|Chapter 2.1]]
+	- #### [[- PROJECT RAZORS/ACT 1/RAZORS - Chapter 2.1\|Chapter 2.1]]
 	- #### Chapter 2.2
 	- #### Chapter 2.3
 	- #### Chapter 2.4
