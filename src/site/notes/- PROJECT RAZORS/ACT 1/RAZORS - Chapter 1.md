@@ -20,6 +20,8 @@ Serafin wipes away some stubble on his neck, but isn’t really happy with the r
 “Yeah, I’ve viewed it,” says Lucy. “Everybody looked terrible back then.”
 
 Lucy is at that fortunate age where she doesn’t need a touchup, although she touched up earlier anyway. She’s sitting on his bed, her blonde hair swept up into its usual chignon. She’s added freckles that slowly spin and dance across her cheeks, which she assures him are all the rage these days.
+{ #8bcb69}
+
 
 He taps at the edges of his eyes until the crow’s feet fade away.
 
@@ -110,6 +112,8 @@ She doubles the mirror, swaps out the prosthetic with a copy of his right arm in
 Serafin nods. “That’s good. I like that.”
 
 Lucy adjusts the permissions for him. “There you go.”
+{ #2c4dde}
+
 
 The double fades away. In the remaining reflection, Serafin sees Lucy finish her drink.
 
@@ -670,6 +674,8 @@ van Arden closes the door, locks it.
 It takes Serafin a moment to notice Arthur Nock on the other side of the room, perched with shoulders hunched and arms folded like an astringent little buzzard. van Arden and Sal both look concerned; Nock looks mostly furious.
 
 Nock sits on the board of the Solar Security Committee, and is the current Office of the Executive Liaison for Solar Intelligence Services’ Special Operations Force. The man is widely disliked, but not by anybody in a position to do much about it; to his credit, he’s effective enough most are willing to suffer through dealing with him.
+{ #42491d}
+
 
 But none of that matters at the moment. If Nock is here, they are veering toward catastrophe.
 
