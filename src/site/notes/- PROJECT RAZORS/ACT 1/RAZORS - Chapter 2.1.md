@@ -163,7 +163,7 @@ When Serafin returns to his room, a new priority message is waiting. The sender 
 
 Serafin groans.
 
-“I know, I know,” says van Arden, raising a hand as though he can hear Serafin two hours later. “I don’t like it either, but this is coming from upstairs. I spoke with an old chum who works for c24, they’ll be in touch soon. I also had the boys in PubComms put together a packet for you to make sure we’re all on the same page.
+“I know, I know,” says van Arden, raising a hand as though he can hear Serafin two hours later. “I don’t like it either, but this is coming from upstairs. I spoke with an old chum who works for C24, they’ll be in touch soon. I also had the boys in PubComms put together a packet for you to make sure we’re all on the same page.
 
 “Hate to put you through this, but we’ll try to make it all relatively painless. Get this taken care of. Get cleared by the docs. After that, it’s smooth sailing.
 
